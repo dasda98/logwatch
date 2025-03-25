@@ -1,0 +1,4 @@
+# Logwatch
+
+## Structure
+
